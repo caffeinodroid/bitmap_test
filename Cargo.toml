@@ -6,3 +6,5 @@ edition = "2024"
 [dependencies]
 image 	= "0.25.6"
 hex 	= "0.4.3"
+rfd     = "0.13"
+gdk-sys = "0.18.2"
